@@ -1,5 +1,7 @@
 # Links
-https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ#error---im-having-a-problem-running-jsps-with-spring-boot-in-intellij-what-should-i-do
+[FAQ](https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ#error---im-having-a-problem-running-jsps-with-spring-boot-in-intellij-what-should-i-do
+)
+
 
 #### Rest
 Resource - has a uri
